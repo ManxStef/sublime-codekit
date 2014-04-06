@@ -14,4 +14,4 @@ The easiest way to install this plugin is using the excellent [Package Control](
 
  Package Control will automatically keep SublimeCodeKit up to date with the latest version.
 
-To install the plugin manually, [download](https://github.com/manxstef/sublimecodekit/archive/master.zip) and place it in your Packages directory (`Preferences -> Browse Packages`, place it in the `User` folder).
+To install the plugin manually, [download](https://github.com/ManxStef/sublime-codekit/archive/master.zip) and place it in your Packages directory (`Preferences -> Browse Packages`, place it in the `User` folder).
