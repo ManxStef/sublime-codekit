@@ -1,8 +1,7 @@
 # CodeKit .kit File Syntax Highlighting Plugin for Sublime Text
-==============
 
 ## About
-This is a Sublime Text plugin that adds standard HTML syntax highlighting for CodeKit .kit files. It also adds basic keyboard completions for "import", "include" and "myvar".
+This is a Sublime Text plugin that adds standard HTML syntax highlighting for CodeKit .kit files. It also adds basic keyboard completions for the keywords `import`, `include` and `myvar`.
 
 ## Installation
 The easiest way to install this plugin is using the excellent [Package Control](http://wbond.net/sublime\_packages/package\_control).
