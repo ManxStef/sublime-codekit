@@ -1,0 +1,10 @@
+{
+    "scope": "text.html.basic.codekit",
+
+    "completions":
+    [
+        { "trigger": "import", "contents": "<!-- @import '${1:path/filename}' -->$0" },
+        { "trigger": "include", "contents": "<!-- @include '${1:path/filename}' -->$0" },
+        { "trigger": "myvar", "contents": "<!-- @${1:myVar} = ${2:Variable string value} -->$0" }
+    ]
+}
